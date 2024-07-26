@@ -7,8 +7,11 @@ MENTOR: NEELA SANTHOSH KUMAR
 ## OVERVIEW OF THE PROJECT
 
 # PROJECT:
-        Develop a Python program to track and manage student grades. The program should allow the user to input grades for different subjects or
-        assignments, calculate the average grade, and display the overall grade along with any additional information (such as letter grade or GPA).
+        Develop a Python program to track and manage student grades.
+        The program should allow the user to input grades
+        for different subjects or assignments, calculate the average 
+        grade, and display the overall grade along with any  
+        additional information (such as letter grade or GPA).
         
 # # Features
 
